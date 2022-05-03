@@ -72,3 +72,12 @@ body{
     text-transform: capitalize;
     color: black;
 }
+
+.men h2{
+    color: black;
+    text-align: center;
+}
+.carousel-inner p{
+    color: black;
+    font-size: 16px;
+}
